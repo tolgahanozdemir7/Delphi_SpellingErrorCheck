@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.560,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\KendiNLPModelim.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\KendiNLPModelim.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.433,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project9.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\KendiNLPProjem.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.778,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.344,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.781,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
